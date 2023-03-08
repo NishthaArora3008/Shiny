@@ -1,4 +1,5 @@
 # Shiny App
+URL: http://127.0.0.1:5345
 
 ## About the project
 - The project contains an analysis on Weapons and Targets for Iraq terrorist attacks. This project is a part of an assessment for the subject 'Data Visualization' (Semester 2 2021).
